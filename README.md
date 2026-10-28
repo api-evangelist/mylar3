@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mylar3 is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://github.com/mylar3/mylar3
+Mylar3 is a technology company focused on providing advanced data analytics and visualization tools for businesses. It offers a platform that integrates data from multiple sources, applies machine learning models, and delivers interactive dashboards. The company emphasizes security, scalability, and ease of integration through RESTful APIs and SDKs for various programming languages. Mylar3 aims to empower organizations to make data-driven decisions with real-time insights and customizable reporting features.
+
+**Areas:** Company · Data-Analytics · Visualization · Machine-Learning · APIs
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mylarcomics.com)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/mylar3/](https://apis.io/providers/mylar3/).
